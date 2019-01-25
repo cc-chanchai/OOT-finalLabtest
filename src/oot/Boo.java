@@ -32,7 +32,7 @@ public class Boo extends Foo implements Sout{
             for(int j = 0; j < t.length; j++){
                 total = total * Integer.valueOf(t[j]);
             }
-        System.out.print(" " + total);
+        //System.out.print(" " + total);
         }
     }
 }
