@@ -20,7 +20,7 @@ public class Boo extends Foo implements Sout{
             System.out.print(min);
             count--;
         }
-        System.out.println();
+        //System.out.println();
     }
     public void multiply(String[]str){
         System.out.print(getName() + " prints multiply = ");
